@@ -1,3 +1,5 @@
+👉 Skaitmeninių komunikavimo ir bendravimo technologijų įvairovė ir svarba: [1 pamoka](https://gamma.app/docs/120601-Skaitmeniniu-komunikaciju-technologijos-9vgei7jj97m528x), [2 pamoka](https://gamma.app/docs/120602-Skaitmenines-paslaugos-ir-e-valdzia-mosddd7ntfb742i)
+
 # Temos informatikos kurso atsiskaitymui (12 klasė)
 
 ## 1. Algoritmai
