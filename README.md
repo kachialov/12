@@ -1,4 +1,6 @@
-👉 Skaitmeninių komunikavimo ir bendravimo technologijų įvairovė ir svarba: [1 pamoka](https://gamma.app/docs/120601-Skaitmeniniu-komunikaciju-technologijos-9vgei7jj97m528x), [2 pamoka](https://gamma.app/docs/120602-Skaitmenines-paslaugos-ir-e-valdzia-mosddd7ntfb742i)
+Skaitmeninių komunikavimo ir bendravimo technologijų įvairovė ir svarba: [1 pamoka](https://gamma.app/docs/120601-Skaitmeniniu-komunikaciju-technologijos-9vgei7jj97m528x), [2 pamoka](https://gamma.app/docs/120602-Skaitmenines-paslaugos-ir-e-valdzia-mosddd7ntfb742i)
+
+👉 Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https://gamma.app/docs/1207-Projektu-valdymo-sistemos-jon7l2w8rfd52s6), [TOP projektų valdymo sistemos](https://gamma.app/docs/120702-TOP-projektu-valdymo-sistemospdf-lx21bax7s58iwzo)
 
 # Temos informatikos kurso atsiskaitymui (12 klasė)
 
