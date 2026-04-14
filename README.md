@@ -116,6 +116,7 @@ Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https:/
 - Kritinis vertinimas: kas veikia, ką būtų galima tobulinti
 
 ## 21. Asmens duomenų teisėtas naudojimas
+[Skaidrės](https://gamma.app/docs/1221-asmens-duomenu-teisetas-naudojimas-5bzie8vtcl0ezz0)
 - Dažniausi asmens duomenys skaitmeniniame bendravime:
 - Pagrindiniai teisės aktai Europoje ir Lietuvoje:
 - BDAR pagrindai (ką turi užtikrinti duomenų tvarkymas):
