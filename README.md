@@ -115,7 +115,7 @@ Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https:/
 - Animacijos eksportavimas ir peržiūra
 - Kritinis vertinimas: kas veikia, ką būtų galima tobulinti
 
-## 20. Asmens duomenų teisėtas naudojimas
+## 21. Asmens duomenų teisėtas naudojimas
 - Dažniausi asmens duomenys skaitmeniniame bendravime:
 - Pagrindiniai teisės aktai Europoje ir Lietuvoje:
 - BDAR pagrindai (ką turi užtikrinti duomenų tvarkymas):
