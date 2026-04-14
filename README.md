@@ -114,3 +114,12 @@ Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https:/
   - Galvos pasukimo animacija: pagrindinės pozicijos, judesio sklandumas
 - Animacijos eksportavimas ir peržiūra
 - Kritinis vertinimas: kas veikia, ką būtų galima tobulinti
+
+## 20. Asmens duomenų teisėtas naudojimas
+- Dažniausi asmens duomenys skaitmeniniame bendravime:
+- Pagrindiniai teisės aktai Europoje ir Lietuvoje:
+- BDAR pagrindai (ką turi užtikrinti duomenų tvarkymas):
+- Duomenų subjekto teisės ir jų realizavimas:
+- Institucijos ir atsakomybės:
+- Kibernetinio saugumo sąvokos (pagal įstatymą) ir praktiniai pavyzdžiai:
+- Kibernetinės saugos ir duomenų saugos ryšys
