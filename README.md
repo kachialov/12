@@ -101,7 +101,9 @@ Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https:/
   6. Baigiamieji elementai
   7. Publikavimas
 
-## 13. Skaitmeninio turinio kūrimas – Animuotų kompiuterinės grafikos objektų kūrimas
+## 13. Skaitmeninis turinys
+
+### 13.1. Animuotų kompiuterinės grafikos objektų kūrimas
 - Įvadas į 2D kompiuterinę grafiką
 - Objektų kūrimo ir animavimo pagrindai naudojant **Blender**:
   - Objektų modeliavimas (formos, svoriai, tinklelis)
@@ -114,6 +116,8 @@ Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https:/
   - Galvos pasukimo animacija: pagrindinės pozicijos, judesio sklandumas
 - Animacijos eksportavimas ir peržiūra
 - Kritinis vertinimas: kas veikia, ką būtų galima tobulinti
+### 13.2. Vaizdinio turinio kūrimas
+- Infografikai
 
 ## 21. Asmens duomenų teisėtas naudojimas
 [Skaidrės](https://gamma.app/docs/1221-asmens-duomenu-teisetas-naudojimas-5bzie8vtcl0ezz0)
