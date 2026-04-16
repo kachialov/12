@@ -117,7 +117,7 @@ Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https:/
 - Animacijos eksportavimas ir peržiūra
 - Kritinis vertinimas: kas veikia, ką būtų galima tobulinti
 ### 13.2. Vaizdinio turinio kūrimas
-- Infografikai
+- [Infografikai](https://gamma.app/docs/12132-infografikai-coo5vo1rx5o483z). [Pvz](https://duifdi8i2s27p.cloudfront.net/Swingvy_Communication-Collaboration-Tool-Ecosystem.pdf)
 
 ## 21. Asmens duomenų teisėtas naudojimas
 [Skaidrės](https://gamma.app/docs/1221-asmens-duomenu-teisetas-naudojimas-5bzie8vtcl0ezz0)
