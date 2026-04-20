@@ -128,3 +128,14 @@ Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https:/
 - Institucijos ir atsakomybės:
 - Kibernetinio saugumo sąvokos (pagal įstatymą) ir praktiniai pavyzdžiai:
 - Kibernetinės saugos ir duomenų saugos ryšys
+
+## 22. Saugus elgesys
+
+### 22.1. Slaptažodžiai, autentifikavimas, paskyrų apsauga
+- aa
+- bb
+### 22.2. Kenkėjiškas turinys, sukčiavimas, socialinė inžinerija
+- cc
+- dd
+
+
