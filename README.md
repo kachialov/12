@@ -132,8 +132,11 @@ Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https:/
 ## 22. Saugus elgesys
 
 ### 22.1. Slaptažodžiai, autentifikavimas, paskyrų apsauga
-- aa
-- bb
+[Skaidrės](https://gamma.app/docs/12221-Slaptazodziai-autentifikavimas-paskyru-apsauga-pvwxf9eyl5ugcy9)
+- Slaptažodžių saugumas: stiprūs slaptažodžiai, slaptafrazės, dažniausios klaidos
+- Slaptažodžių vagystės būdai ir rizikos
+- Autentifikavimas ir MFA
+- Paskyrų apsaugos priemonės
 ### 22.2. Kenkėjiškas turinys, sukčiavimas, socialinė inžinerija
 - cc
 - dd
