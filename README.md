@@ -138,7 +138,11 @@ Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https:/
 - Autentifikavimas ir MFA
 - Paskyrų apsaugos priemonės
 ### 22.2. Kenkėjiškas turinys, sukčiavimas, socialinė inžinerija
-- cc
-- dd
+[Skaidrės](https://gamma.app/docs/12222-Kenkejiskas-turinys-sukciavimas-socialine-inzinerija-953jpcy5dvk70jb)
+- Kenkėjiško turinio samprata, formos ir požymiai
+- Sukčiavimo internete būdai ir fišingo pavyzdžiai
+- Socialinės inžinerijos esmė ir dažniausios manipuliavimo technikos
+- Pavojai asmens duomenims, paskyroms ir įrenginiams
+- Saugaus elgesio principai ir veiksmai susidūrus su grėsme
 
 
