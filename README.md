@@ -1,15 +1,16 @@
 # Siūlomas prioritetinis teorijos kartojimo sąrašas mokiniams VBE II pasiruošti
 - Duomenys / informacija / žinios
 - Duomenų šaltiniai ir jų patikimumas
-- Rikiavimas, filtravimas, grupavimas
+- [Duomenų struktkros ir jų taikymas](https://github.com/agorbatniov/inf12/blob/main/99_kurso_kartojimas/01_kursokartojimas.pdf)
+- [Rikiavimas](https://github.com/agorbatniov/inf12/blob/main/99_kurso_kartojimas/02_kursokartojimas.pdf), filtravimas, grupavimas
 - Skaičiuoklės funkcijų paskirtis
 - Diagramų parinkimas ir klaidinančios diagramos
-- Algoritmas, sąlyga, ciklas, funkcija
-- Sąrašai / masyvai
-- Rikiavimo ir paieškos algoritmų idėja
+- [Algoritmas](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01a_Algoritmai_tipai%2C_charakteristikos%2C_strukturine_schema.pdf), sąlyga, ciklas, funkcija
+- [Sąrašai / masyvai](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/02a_Duomen%C5%B3%20strukt%C5%ABr%C5%B3%20naudojimas_masyvai.pdf)
+- [Rikiavimo ir paieškos algoritmų idėja](https://gamma.app/docs/1108m-Rusiavimo-algoritmai-praktika-o347q4dcimnabew)
 - Programų testavimas
 - Dirbtinis intelektas ir jo taikymas
-- Asmens duomenys, BDAR
+- [Asmens duomenys, BDAR](https://gamma.app/docs/1221-asmens-duomenu-teisetas-naudojimas-5bzie8vtcl0ezz0)
 - Elektroninis parašas ir [šifravimas](https://github.com/kachialov/12/blob/main/_VBE/Medziaga/12_2_Kriptografija.pdf)
 
 # Pamokų medžiaga
