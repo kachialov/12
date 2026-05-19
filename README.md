@@ -1,3 +1,19 @@
+# Siūlomas prioritetinis teorijos kartojimo sąrašas mokiniams VBE II pasiruošti
+- Duomenys / informacija / žinios
+- Duomenų šaltiniai ir jų patikimumas
+- Rikiavimas, filtravimas, grupavimas
+- Skaičiuoklės funkcijų paskirtis
+- Diagramų parinkimas ir klaidinančios diagramos
+- Algoritmas, sąlyga, ciklas, funkcija
+- Sąrašai / masyvai
+- Rikiavimo ir paieškos algoritmų idėja
+- Programų testavimas
+- Dirbtinis intelektas ir jo taikymas
+- Asmens duomenys, BDAR
+- Elektroninis parašas ir šifravimas
+
+# Pamokų medžiaga
+
 Skaitmeninių komunikavimo ir bendravimo technologijų įvairovė ir svarba: [1 pamoka](https://gamma.app/docs/120601-Skaitmeniniu-komunikaciju-technologijos-9vgei7jj97m528x), [2 pamoka](https://gamma.app/docs/120602-Skaitmenines-paslaugos-ir-e-valdzia-mosddd7ntfb742i)
 
 Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https://gamma.app/docs/1207-Projektu-valdymo-sistemos-jon7l2w8rfd52s6), [TOP projektų valdymo sistemos](https://gamma.app/docs/120702-TOP-projektu-valdymo-sistemospdf-lx21bax7s58iwzo)
