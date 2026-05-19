@@ -10,7 +10,7 @@
 - Programų testavimas
 - Dirbtinis intelektas ir jo taikymas
 - Asmens duomenys, BDAR
-- Elektroninis parašas ir šifravimas
+- Elektroninis parašas ir [šifravimas](https://github.com/kachialov/12/blob/main/_VBE/Medziaga/12_2_Kriptografija.pdf)
 
 # Pamokų medžiaga
 
