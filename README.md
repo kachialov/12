@@ -1,5 +1,5 @@
 # Siūlomas prioritetinis teorijos kartojimo sąrašas mokiniams VBE II pasiruošti
-- Duomenys / informacija / žinios
+- [Duomenys / informacija / žinios](https://github.com/kachialov/12/blob/main/_VBE/Medziaga/01_Duomenys_informacija_zinios.pdf)
 - Duomenų šaltiniai ir jų patikimumas
 - [Duomenų struktkros ir jų taikymas](https://github.com/agorbatniov/inf12/blob/main/99_kurso_kartojimas/01_kursokartojimas.pdf)
 - [Rikiavimas](https://github.com/agorbatniov/inf12/blob/main/99_kurso_kartojimas/02_kursokartojimas.pdf), filtravimas, grupavimas
