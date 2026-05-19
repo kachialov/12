@@ -2,7 +2,7 @@
 - [Duomenys / informacija / žinios](https://github.com/kachialov/12/blob/main/_VBE/Medziaga/01_Duomenys_informacija_zinios.pdf)
 - [Duomenų šaltiniai ir jų patikimumas](https://github.com/kachialov/12/blob/main/_VBE/Medziaga/02_Duomenu_saltiniai_ir_ju_patikimumas.pdf)
 - [Duomenų struktkros ir jų taikymas](https://github.com/agorbatniov/inf12/blob/main/99_kurso_kartojimas/01_kursokartojimas.pdf)
-- [Rikiavimas](https://github.com/agorbatniov/inf12/blob/main/99_kurso_kartojimas/02_kursokartojimas.pdf), filtravimas, grupavimas
+- [Rikiavimas](https://github.com/agorbatniov/inf12/blob/main/99_kurso_kartojimas/02_kursokartojimas.pdf) [2](https://github.com/kachialov/12/blob/main/_VBE/Medziaga/04_01_Duomenu_rikiavimas.pdf), [filtravimas](https://github.com/kachialov/12/blob/main/_VBE/Medziaga/04_02_Duomenu_filtravimas.pdf), grupavimas
 - Skaičiuoklės funkcijų paskirtis
 - Diagramų parinkimas ir klaidinančios diagramos
 - [Algoritmas](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01a_Algoritmai_tipai%2C_charakteristikos%2C_strukturine_schema.pdf), [sąlyga](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01c_Algoritmu_parinkimas_If.pdf), [ciklas](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01d_Algoritmu_parinkimas_For.pdf) [2](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01e_Algoritmu_parinkimas_Ciklai_While.pdf) [3](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01f_Algoritmu_parinkimas_Ciklai_Range_Pass_Ciklas_cikle.pdf), [funkcija](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/03b_Algoritmu_parinkimas__Paprogram%C4%97s._Parametrai.pdf)
