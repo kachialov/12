@@ -7,6 +7,7 @@
 - Diagramų parinkimas ir klaidinančios diagramos
 - [Algoritmas](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01a_Algoritmai_tipai%2C_charakteristikos%2C_strukturine_schema.pdf), [sąlyga](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01c_Algoritmu_parinkimas_If.pdf), [ciklas](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01d_Algoritmu_parinkimas_For.pdf) [2](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01e_Algoritmu_parinkimas_Ciklai_While.pdf) [3](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/01f_Algoritmu_parinkimas_Ciklai_Range_Pass_Ciklas_cikle.pdf), [funkcija](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/03b_Algoritmu_parinkimas__Paprogram%C4%97s._Parametrai.pdf)
 - [Sąrašai / masyvai](https://github.com/agorbatniov/inf11/blob/main/Medziaga_pasiruosimui/02a_Duomen%C5%B3%20strukt%C5%ABr%C5%B3%20naudojimas_masyvai.pdf)
+- [Klasės](https://gamma.app/docs/1111-Class-f6hhljdiyaiq3te)
 - [Rikiavimo ir paieškos algoritmų idėja](https://gamma.app/docs/1108m-Rusiavimo-algoritmai-praktika-o347q4dcimnabew)
 - [Dirbtinis intelektas ir jo taikymas](https://github.com/kachialov/12/blob/main/_VBE/Medziaga/10_Dirbtinis_intelektas_SANTRAUKA.pdf)
 - [Asmens duomenys, BDAR](https://gamma.app/docs/1221-asmens-duomenu-teisetas-naudojimas-5bzie8vtcl0ezz0)
