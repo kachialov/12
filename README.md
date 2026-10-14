@@ -17,13 +17,13 @@
 
 Skaitmeninių komunikavimo ir bendravimo technologijų įvairovė ir svarba: [1 pamoka](https://gamma.app/docs/120601-Skaitmeniniu-komunikaciju-technologijos-9vgei7jj97m528x), [2 pamoka](https://gamma.app/docs/120602-Skaitmenines-paslaugos-ir-e-valdzia-mosddd7ntfb742i)
 
-Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https://gamma.app/docs/1207-Projektu-valdymo-sistemos-jon7l2w8rfd52s6), [TOP projektų valdymo sistemos](https://gamma.app/docs/120702-TOP-projektu-valdymo-sistemospdf-lx21bax7s58iwzo)
+👉 Projektų valdymo sistemos ir grupinio programavimo įrankiai: [Teorija](https://gamma.app/docs/1207-Projektu-valdymo-sistemos-jon7l2w8rfd52s6), [TOP projektų valdymo sistemos](https://gamma.app/docs/120702-TOP-projektu-valdymo-sistemospdf-lx21bax7s58iwzo)
 
 [Duomenų struktūrų naudojimas](https://github.com/agorbatniov/inf11/tree/main/Duomen%C5%B3%20strukt%C5%ABr%C5%B3%20naudojimas)
 
 [Išorinių duomenų naudojimas](https://github.com/agorbatniov/inf10/tree/main/07_I%C5%A1orini%C5%B3_duomen%C5%B3_naudojimas)
 
-👉 [Sumos, vidurkio, kiekio, min, max skaičiavimo algoritmai](https://gamma.app/docs/1208-Sumos-vidurkio-kiekio-min-max-algoritmai-o39ewxqpq452rwc)
+[Sumos, vidurkio, kiekio, min, max skaičiavimo algoritmai](https://gamma.app/docs/1208-Sumos-vidurkio-kiekio-min-max-algoritmai-o39ewxqpq452rwc)
 
 # Temos informatikos kurso atsiskaitymui (12 klasė)
 
